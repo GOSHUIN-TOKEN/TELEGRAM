@@ -1,0 +1,13 @@
+D:\GOSHUIN\TELEGRAM\AirDrop\TelegramShuiBot\bin\Release\TelegramShuiBot.exe.config
+D:\GOSHUIN\TELEGRAM\AirDrop\TelegramShuiBot\bin\Release\TelegramShuiBot.exe
+D:\GOSHUIN\TELEGRAM\AirDrop\TelegramShuiBot\bin\Release\TelegramShuiBot.pdb
+D:\GOSHUIN\TELEGRAM\AirDrop\TelegramShuiBot\bin\Release\CloudrailSI.dll
+D:\GOSHUIN\TELEGRAM\AirDrop\TelegramShuiBot\bin\Release\Newtonsoft.Json.dll
+D:\GOSHUIN\TELEGRAM\AirDrop\TelegramShuiBot\bin\Release\TeleBotDotNet.dll
+D:\GOSHUIN\TELEGRAM\AirDrop\TelegramShuiBot\bin\Release\Telegram.Bot.dll
+D:\GOSHUIN\TELEGRAM\AirDrop\TelegramShuiBot\bin\Release\Newtonsoft.Json.xml
+D:\GOSHUIN\TELEGRAM\AirDrop\TelegramShuiBot\bin\Release\Telegram.Bot.xml
+D:\GOSHUIN\TELEGRAM\AirDrop\TelegramShuiBot\obj\Release\TelegramShuiBot.csproj.CoreCompileInputs.cache
+D:\GOSHUIN\TELEGRAM\AirDrop\TelegramShuiBot\obj\Release\TelegramShuiBot.csproj.CopyComplete
+D:\GOSHUIN\TELEGRAM\AirDrop\TelegramShuiBot\obj\Release\TelegramShuiBot.exe
+D:\GOSHUIN\TELEGRAM\AirDrop\TelegramShuiBot\obj\Release\TelegramShuiBot.pdb
